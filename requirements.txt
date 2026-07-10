@@ -1,0 +1,7 @@
+flask
+
+# — Core —
+requests==2.33.0
+
+# — Tests —
+pytest==9.0.3
